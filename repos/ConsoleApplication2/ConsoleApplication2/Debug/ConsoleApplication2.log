@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+c:\users\drqlt\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(10): error C3861: scanf: идентификатор не найден
+c:\users\drqlt\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): error C3861: realloc: идентификатор не найден
+c:\users\drqlt\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): error C3861: printf: идентификатор не найден

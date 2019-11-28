@@ -1,0 +1,9 @@
+﻿  Kursach.cpp
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(35): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(55): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(90): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(125): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(160): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(195): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\drqlt\source\repos\project8\project8\kursach.cpp(239): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project8.vcxproj -> C:\Users\drqlt\source\repos\Project8\Debug\Project8.exe

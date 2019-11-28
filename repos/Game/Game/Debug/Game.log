@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Game.cpp
+c:\users\drqlt\source\repos\game\game\game.cpp(231): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\drqlt\source\repos\game\game\game.cpp(234): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\drqlt\source\repos\game\game\game.cpp(239): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\drqlt\source\repos\game\game\game.cpp(324): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\drqlt\source\repos\game\game\game.cpp(327): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\drqlt\source\repos\game\game\game.cpp(330): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Game.vcxproj -> C:\Users\drqlt\source\repos\Game\Debug\Game.exe

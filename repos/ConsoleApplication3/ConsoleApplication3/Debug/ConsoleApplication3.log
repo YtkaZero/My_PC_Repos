@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+c:\users\drqlt\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\drqlt\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe

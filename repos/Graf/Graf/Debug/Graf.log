@@ -1,0 +1,4 @@
+﻿  Graf.c
+c:\users\drqlt\source\repos\graf\graf\graf.c(54): warning C4267: =: преобразование из "size_t" в "SHORT"; возможна потеря данных
+c:\users\drqlt\source\repos\graf\graf\graf.c(189): warning C4715: menu_console_event: значение возвращается не при всех путях выполнения
+  Graf.vcxproj -> C:\Users\drqlt\source\repos\Graf\Debug\Graf.exe

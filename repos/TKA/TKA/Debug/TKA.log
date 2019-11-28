@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\drqlt\source\repos\tka\tka\source.cpp(32): warning C4715: s1: значение возвращается не при всех путях выполнения
+c:\users\drqlt\source\repos\tka\tka\source.cpp(54): warning C4715: s2: значение возвращается не при всех путях выполнения
+c:\users\drqlt\source\repos\tka\tka\source.cpp(77): warning C4715: s4: значение возвращается не при всех путях выполнения
+  TKA.vcxproj -> C:\Users\drqlt\source\repos\TKA\Debug\TKA.exe

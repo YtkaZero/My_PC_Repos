@@ -1,0 +1,4 @@
+﻿  Kod.c
+c:\users\drqlt\source\repos\razrabotka_pp\razrabotka_pp\kod.c(112): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\drqlt\source\repos\razrabotka_pp\razrabotka_pp\kod.c(177): warning C4101: set: неиспользованная локальная переменная
+  Razrabotka_PP.vcxproj -> C:\Users\drqlt\source\repos\Razrabotka_PP\Debug\Razrabotka_PP.exe

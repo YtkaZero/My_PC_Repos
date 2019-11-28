@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\drqlt\source\repos\project2\project2\source.c(15): warning C4047: !=: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\drqlt\source\repos\project2\project2\source.c(26): warning C4047: return: "char *" отличается по уровням косвенного обращения от "int"
+c:\users\drqlt\source\repos\project2\project2\source.c(70): warning C4047: =: "int" отличается по уровням косвенного обращения от "char *"
+  Project2.vcxproj -> C:\Users\drqlt\source\repos\Project2\Debug\Project2.exe

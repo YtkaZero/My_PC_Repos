@@ -1,0 +1,4 @@
+﻿  Kursach_4.cpp
+c:\users\drqlt\source\repos\kursach_4\kursach_4\kursach_4.cpp(56): warning C4715: move_left: значение возвращается не при всех путях выполнения
+c:\users\drqlt\source\repos\kursach_4\kursach_4\kursach_4.cpp(70): warning C4715: move_right: значение возвращается не при всех путях выполнения
+  Kursach_4.vcxproj -> C:\Users\drqlt\source\repos\Kursach_4\Debug\Kursach_4.exe
