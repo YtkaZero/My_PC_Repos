@@ -1,0 +1,163 @@
+int states(polojenie P, collor C)
+{
+	if ((P.DP1 == 1)&(P.DP2 == 1)&(P.DP3 == 1)&(P.DP4 == 1))
+	{
+		if ((C.DC1 == 1)&(C.DC2 == 1))
+		{
+			if (C.Red == 1)
+			{
+				if (C.rotorG == 1)
+				{
+					if (C.rotorV == 0)
+					{
+						if (C.painting == 0)
+						{
+							if (C.fullpainted == 0)
+							{
+								printf("Current state QPG");
+								return 0;
+							}
+						}
+					}
+				}
+				else if (C.rotorV == 1)
+				{
+					if (C.painting == 0)
+					{
+						if (C.fullpainted == 0)
+						{
+							printf("Current state QPV");
+							return 0;
+						}
+					}
+				}
+				else if (C.painting == 1)
+				{
+					if (C.fullpainted == 0)
+					{
+						printf("Current state QP");
+						return 0;
+					}
+				}
+				else if (C.fullpainted == 1)
+				{
+					printf("Current state QEnd");
+					return 0;
+				}
+			}
+			else
+			{
+				printf("Broken");
+				return 0;
+			}
+		}
+		else if ((C.DC1 == 1)&(C.DC3 == 1))
+		{
+			if (C.Green == 1)
+			{
+				if (C.rotorG == 1)
+				{
+					if (C.rotorV == 0)
+					{
+						if (C.painting == 0)
+						{
+							if (C.fullpainted == 0)
+							{
+								printf("Current state QPG");
+								return 0;
+							}
+						}
+					}
+				}
+				else if (C.rotorV == 1)
+				{
+					if (C.painting == 0)
+					{
+						if (C.fullpainted == 0)
+						{
+							printf("Current state QPV");
+							return 0;
+						}
+					}
+				}
+				else if (C.painting == 1)
+				{
+					if (C.fullpainted == 0)
+					{
+						printf("Current state QP");
+						return 0;
+					}
+				}
+				else if (C.fullpainted == 1)
+				{
+					printf("Current state QEnd");
+					return 0;
+				}
+			}
+			else
+			{
+				printf("Broken");
+				return 0;
+			}
+		}
+		else if ((C.DC2 == 1)&(C.DC3 == 1))
+		{
+			if (C.Blue == 1)
+			{
+				if (C.rotorG == 1)
+				{
+					if (C.rotorV == 0)
+					{
+						if (C.painting == 0)
+						{
+							if (C.fullpainted == 0)
+							{
+								printf("Current state QPG");
+								return 0;
+							}
+						}
+					}
+				}
+				else if (C.rotorV == 1)
+				{
+					if (C.painting == 0)
+					{
+						if (C.fullpainted == 0)
+						{
+							printf("Current state QPV");
+							return 0;
+						}
+					}
+				}
+				else if (C.painting == 1)
+				{
+					if (C.fullpainted == 0)
+					{
+						printf("Current state QP");
+						return 0;
+					}
+				}
+				else if (C.fullpainted == 1)
+				{
+					printf("Current state QEnd");
+					return 0;
+				}
+			}
+			else
+			{
+				printf("Broken");
+				return 0;
+			}
+		}
+		else
+		{
+			printf("Current state QEj");
+			return 0;
+		}
+	}
+	else
+	{
+		printf("Current state QEj");
+		return 0;
+	}
+}
